@@ -1,2 +1,3 @@
-
-Hello mike test!
+<?php
+"Hello mike test!";
+?>
